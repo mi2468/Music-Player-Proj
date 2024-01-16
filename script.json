@@ -1,0 +1,193 @@
+{
+    "playlists": [
+        {
+            "id": 1,
+            "name": "On My Way",
+            "artist": "Sabrina carpenter",
+            "type": "Pop",
+            "src": "music/Alan walker.mp3",
+            "coverimage": "images/Alan Walker.jpg",
+            "year": 2019
+        },
+        {
+            "id": 2,
+            "name": "Bulleya",
+            "artist": "Pritam Chakraborty",
+            "type": "Rock",
+            "src": "music/bulleya.mp3",
+            "coverimage": "images/bulleya.jpg",
+            "year": 2016
+        },
+        {
+            "id": 3,
+            "name": "Let Me Love You",
+            "artist": "Justin Bieber",
+            "type": "Pop",
+            "src": "music/let me love you.mp3",
+            "coverimage": "images/let me love you.jpg",
+            "year": 2016
+        },
+        {
+            "id": 4,
+            "name": "Faded",
+            "artist": "Alan Walker",
+            "type": "Pop",
+            "src": "music/Faded.mp3",
+            "coverimage": "images/faded.png",
+            "year": 2015
+        },
+        {
+            "id": 5,
+            "name": "Galliyan",
+            "artist": "Ankit Tiwari",
+            "type": "Melody",
+            "src": "music/galliyan.mp3",
+            "coverimage": "images/galliyan.jpg",
+            "year": 2014
+        },
+        {
+            "id": 6,
+            "name": "Heeriye",
+            "artist": "Arjit Singh",
+            "type": "Melody",
+            "src": "music/heeriye.mp3",
+            "coverimage": "images/heeriye.jpg",
+            "year": 2023
+        },
+        {
+            "id": 7,
+            "name": "Jawan Title Track",
+            "artist": "Anirudh",
+            "type": "Rock",
+            "src": "music/Jawan Title track.mp3",
+            "coverimage": "images/jawan.jpg",
+            "year": 2023
+        },
+        {
+            "id": 8,
+            "name": "Jhoome jo Pathan",
+            "artist": "Arjit Singh",
+            "type": "Pop",
+            "src": "music/jhoome jo pathaan.mp3",
+            "coverimage": "images/pathaan.jpg",
+            "year": 2022
+        },
+        {
+            "id": 9,
+            "name": "Badaas",
+            "artist": "Anirudh",
+            "type": "Rock",
+            "src": "music/Leo - Badaas.mp3",
+            "coverimage": "images/Leo - Badaas.jpg",
+            "year": 2023
+        },
+        {
+            "id": 10,
+            "name": "Pacha elai",
+            "artist": "Yuvan",
+            "type": "Pop",
+            "src": "music/pacha elai.mp3",
+            "coverimage": "images/pacha elai.jpg",
+            "year": 2022
+        },
+        {
+            "id": 11,
+            "name": "Neeyum Naanum",
+            "artist": "Hiphop Tamizha",
+            "type": "Melody",
+            "src": "music/neeyum naanum anbe.mp3",
+            "coverimage": "images/neeyum.jpg",
+            "year": 2018
+        },
+        {
+            "id": 12,
+            "name": "Satisfiya",
+            "artist": "Imran Khan",
+            "type": "Rock",
+            "src": "music/Satisfiya.mp3",
+            "coverimage": "images/Satisfiya.jpg",
+            "year": 2013
+        },
+        {
+            "id": 13,
+            "name": "Naan Gaali",
+            "artist": "sean Roldan",
+            "type": "Melody",
+            "src": "music/naan gaali.mp3",
+            "coverimage": "images/naan gaali.jpg",
+            "year": 2023
+        },
+        {
+            "id": 14,
+            "name": "Tere Vaaste",
+            "artist": "Sachin jigar",
+            "type": "Melody",
+            "src": "music/tere vaaste.mp3",
+            "coverimage": "images/tere vaaste.jpg",
+            "year": 2023
+        },
+        {
+            "id": 15,
+            "name": "vikram title track",
+            "artist": "Anirudh",
+            "type": "Rock",
+            "src": "music/Vikram Title track.mp3",
+            "coverimage": "images/vikram.jpg",
+            "year": 2022
+        },
+        {
+            "id": 16,
+            "name": "Aaluma Doluma",
+            "artist": "Anirudh",
+            "type": "Rock",
+            "src": "music/Aaluma Doluma.mp3",
+            "coverimage": "images/vedalam.jpg",
+            "year": 2015
+        },
+        {
+            "id": 17,
+            "name": "Chitiyaan Kalaiyaan",
+            "artist": "Meet Bros",
+            "type": "Rock",
+            "src": "music/chitiyaan kalaiyaan.mp3",
+            "coverimage": "images/chitiyaan.jpg",
+            "year": 2015
+        },
+        {
+            "id": 18,
+            "name": "Megham Karukatha",
+            "artist": "Dhanush",
+            "type": "Melody",
+            "src": "music/Megham Karukatha.mp3",
+            "coverimage": "images/megham.jpg",
+            "year": 2022
+        },
+        {
+            "id": 19,
+            "name": "Jawan - Chaleya",
+            "artist": "Arjit Singh",
+            "type": "Melody",
+            "src": "music/jawan-chaleya.mp3",
+            "coverimage": "images/chaleya.jpg",
+            "year": 2023
+        },
+        {
+            "id": 20,
+            "name": "Chammak challo",
+            "artist": "Akon",
+            "type": "Pop",
+            "src": "music/chammak challo.mp3",
+            "coverimage": "images/chammak challo.jpg",
+            "year": 2011
+        },
+        {
+            "id": 21,
+            "name": "Ghost",
+            "artist": "Justin Bieber",
+            "type": "Pop",
+            "src": "music/Ghost.mp3",
+            "coverimage": "images/ghost.jpg",
+            "year": 2021
+        }
+    ]
+}

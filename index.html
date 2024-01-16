@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player using - JavaScript</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+</head>
+<body>
+    <div id="navbar">
+        <nav>
+            <div class="logo">
+                <img src="/images/Sharktune logo.png" alt="music logo">
+                <span id="logoName">Sharktune</span>
+            </div>
+        </nav>
+
+        <div class="player">
+            <div class="wrapper">
+                <div class="top-bar">
+                    <i class="material-icons">expand_more</i>
+                    <span>Now Playing</span>
+                    <i class="material-icons">more_horiz</i>
+                </div>
+                <div class="img-area">
+                    <img src="/images/Sharktune logo.png" alt="" id="imgArea">
+                </div>
+                <div class="song-details">
+                    <p class="name">yyyy</p>
+                    <p class="artist">yyy</p>
+                </div>
+                <div class="progress-area">
+                    <div class="progress-bar">
+                        <audio src="" id="main-audio"></audio>
+                    </div>
+                    <div class="song-timer">
+                        <span class="current-time">0:00</span>
+                        <span class="max-duration">0:00</span>
+                    </div>
+                    <div class="controls">
+                        <i id="repeat-plist" class="material-icons" title="Playlist looped">repeat</i>
+                        <i id="prev" class="material-icons">skip_previous</i>
+                        <div class="play-pause">
+                            <i class="material-icons play">play_arrow</i>
+                        </div>
+                        <i id="next" class="material-icons">skip_next</i>
+                        <i id="shuffle" class="material-icons">shuffle</i>
+                            <!-- <i class="fa-regular fa-heart" id="heartIcon" class="heart-icon"></i> -->
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="song-playlist">
+                <div class="searchCategory">
+                    <span class="search">Search Category:</span>
+                    <button class="btn-hover color-2"id="allPlaylist">All Playlist</button>
+                    <button class="btn-hover color-2" value="rock" onclick="handleRock()" id="rock">Rock</button>
+                    <button class="btn-hover color-2"id="melody" value="melody" onclick="handleMelody()">Melody</button>
+                    <button class="btn-hover color-2" value="pop" onclick="handlePop()" id="pop">Pop</button>
+                </div>
+                <div class="music-list">
+                    <div class="header">
+                        <div class="row">
+                            <i class="list material-icons">queue_music</i>
+                            <span id="heading"></span>
+                        </div>
+                    </div>
+                    <ul>
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>        
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
